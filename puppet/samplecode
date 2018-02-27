@@ -1,0 +1,13 @@
+#file resource
+#need to test
+#file { '/etc/default/jenkins':
+#    ensure => present,
+#    file_line { :
+#  	path => '/etc/default/jenkins',
+#  	line => 'HTTP_PORT=8000',
+#  	match   => "^HTTP_PORT.*$",
+#    }
+#}
+
+#service resource - start
+
