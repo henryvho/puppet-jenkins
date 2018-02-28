@@ -38,4 +38,3 @@ Describe the most difficult hurdle you had to overcome in implementing your solu
 Please explain why requirement (d) above is important.
 Where did you go to find information to help you?
 Briefly explain what automation means to you, and why it is important to an organization's infrastructure design strategy.
- Have fun and good luck. We look forward to receiving your completed exercise. 
